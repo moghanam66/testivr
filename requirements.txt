@@ -1,4 +1,4 @@
-gunicorn
-Flask==2.2.5
-botbuilder-core==4.14.5
-botbuilder-schema==4.14.5
+fastapi
+uvicorn
+botbuilder-core
+botbuilder-schema
