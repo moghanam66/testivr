@@ -1,6 +1,7 @@
 from botbuilder.core import BotFrameworkAdapter, BotFrameworkAdapterSettings, TurnContext
 from botbuilder.schema import Activity
 
+#ddd
 import asyncio
 
 # Define the bot settings
